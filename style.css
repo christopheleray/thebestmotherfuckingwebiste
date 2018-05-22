@@ -1,0 +1,40 @@
+/* CSS file  for The Best  Mother Fucking Webiste
+------
+par Christophe Leray
+ */
+
+.mfw {
+ 	color: #00A685;
+ }
+
+.wrg {
+	color:red;
+	font-style: bold;
+}
+
+.shittyb {
+	color: #5300F6;
+}
+
+.tiny {
+	font-size: 8px;
+}
+
+body {
+	background-color: #eeeded;
+}
+
+.container {
+	max-width: 650px;
+	line-height: 1.8;
+	text-align: justify;
+	margin: 40px auto;
+}
+
+.colored {
+	color: orange
+}
+
+a {
+	color: #02aed6;
+}
