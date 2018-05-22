@@ -21,7 +21,8 @@ par Christophe Leray
 }
 
 body {
-	background-color: #eeeded;
+	background-color: #f4f8f9;
+	font-family: Georgia, Verdana, sans-serif;
 }
 
 .container {
@@ -37,4 +38,28 @@ body {
 
 a {
 	color: #02aed6;
+}
+
+.contrast1 {
+	color:#444;
+}
+
+.contrast2 {
+	color:#454545;
+}
+
+.picturesbox {
+	
+}
+
+.catleft {
+	float: left;
+	width: 300px;
+}
+
+
+
+.caption {
+	font-size: 0.8em;
+	text-align: center;
 }
